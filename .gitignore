@@ -1,0 +1,71 @@
+# ---------------------------------------------------------------
+# Unity generated
+# ---------------------------------------------------------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Build outputs
+*.apk
+*.aab
+*.obb
+*.unitypackage
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+.DS_Store
+Thumbs.db
+
+# Packages resolved locally (Unity regenerates this)
+/Packages/packages-lock.json
+
+# ---------------------------------------------------------------
+# Project specific
+# ---------------------------------------------------------------
+# Editor screenshots (README images live in docs/images)
+/Assets/Screenshots/
+/Assets/Screenshots.meta
+
+# Old Sketchfab source model (unused, >100 MB files, different licence)
+/Assets/Prefab/HumanAnatomy/
+/Assets/Prefab/HumanAnatomy.meta
+/Assets/Prefab/HumanAnatomy_LOD/
+/Assets/Prefab/HumanAnatomy_LOD.meta
+/Assets/Prefab/ZAnatomy_backup_v1.prefab
+/Assets/Prefab/ZAnatomy_backup_v1.prefab.meta
+
+# Local tooling
+/RuntimeActionBindings.json
+
+# Local helper files
+/git_*.cmd
+/git_*.txt

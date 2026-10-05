@@ -1,0 +1,27 @@
+# Let Git detect text vs binary and normalise text line endings
+* text=auto
+
+# Explicit text
+*.cs      text diff=csharp
+*.shader  text
+*.cginc   text
+*.md      text
+
+# Explicit binary (never touch line endings)
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.psd   binary
+*.tga   binary
+*.fbx   binary
+*.obj   binary
+*.glb   binary
+*.blend binary
+*.ttf   binary
+*.otf   binary
+*.pdf   binary
+*.apk   binary
+*.so    binary
+*.dll   binary
+*.aar   binary
+*.jar   binary
